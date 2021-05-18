@@ -1,0 +1,15 @@
+body {
+    padding: 0px;
+    background-image: url('planner.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#my-nav {
+    background-color: #4A6DA6;
+}
+
+/* #div-btn{
+    width:180px;
+} */
